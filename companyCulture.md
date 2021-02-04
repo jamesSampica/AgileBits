@@ -39,6 +39,6 @@ To  understand  if  you’re  ready  for  courage, ask if you, your team, and yo
 * Not being able to blame lack of planning on your project manager?
 * Not being able to blame poor requirements that don’t hit the mark on your Product Owner or senior managers?
 * Taking the time to really understand your users?
-* Building something that isn't perfect, because what the users need most is some‐thing that's simply good enough?
+* Building something that isn't perfect, because what the users need most is something that's simply good enough?
 
 If the answer to most of those questions is "yes," then your team, managers, and company probably have a culture that matches the Scrum values. On the other hand, if you’ve answered “no” to more than one or two bullets for any of the values, then that's a good starting point for a realistic and open discussion with your team and your boss. And if that open discussion sounds unrealistic, then you’re definitely going to have to work on openness if you want to get the most out of Scrum
