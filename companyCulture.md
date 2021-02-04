@@ -37,7 +37,7 @@ To understand if you’re ready for openness, ask if you, your team, and your bo
 To  understand  if  you’re  ready  for  courage, ask if you, your team, and your boss are OK with:
 
 * Not being able to blame lack of planning on your project manager?
-* Not being able to blame poor requirements that don’t hit the mark on your Prod‐uct Owner or senior managers?
+* Not being able to blame poor requirements that don’t hit the mark on your Product Owner or senior managers?
 * Taking the time to really understand your users?
 * Building something that isn't perfect, because what the users need most is some‐thing that's simply good enough?
 
